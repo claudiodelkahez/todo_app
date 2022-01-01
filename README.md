@@ -1,2 +1,3 @@
-# todo_app
- a better todo app
+## todo_app
+
+>https://claudiodelkahez.github.io/todo_app/
