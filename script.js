@@ -31,6 +31,8 @@ document.querySelector('#push').onclick = function () {
             };
 
         }
+        //clearing input field after each entry
+        document.querySelector("#newtask input").value = "";
 
     }
 }

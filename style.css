@@ -18,7 +18,6 @@ header {
     color: #ffff;
 }
 .container {
-    border: 2px solid white;
     width: 40%;
     position: absolute;
     transform: translate(-50%, -50%);
